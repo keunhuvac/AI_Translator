@@ -1,0 +1,36 @@
+{
+    "theme": "cyborg",
+    "api_key_file": "D:/Ebooks/API_list.txt",
+    "processing_dirs": [
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\8\\8966",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\8\\8973",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\15\\15518",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\3\\3271",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\15\\15441",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\15\\15264",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\uukanshu.cc\\book\\12949",
+        "D:\\Ebooks\\Piaotiao_DL\\downloaded_novels\\uukanshu.cc\\book\\22057",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\m_20xs_org\\20xs_book_27127",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\m_20xs_org\\20xs_book_367",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\15\\15365",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\6\\6462",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\8\\8912",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\15\\15361",
+        "D:\\Ebooks\\AI_Translator_Gemini_and_Grok\\m_20xs_org\\20xs_book_18358"
+    ],
+    "completed_dirs": [
+        "D:\\Ebooks\\Gemini_Project\\downloaded_novels\\15\\15520"
+    ],
+    "primary_model": "gemini-2.0-flash",
+    "secondary_model": "gemini-2.0-flash-lite",
+    "final_retry_model": "gemini-2.0-flash",
+    "translation_prompt": "Dịch đoạn văn bản tiếng Trung sau sang tiếng Việt theo văn phong truyện Tiên hiệp/Huyền huyễn.\nƯu tiên dịch các thuật ngữ và tên riêng sang Hán Việt nếu có thể và hợp lý, giữ sự nhất quán.\nGiữ văn phong tự nhiên, trôi chảy, phù hợp với ngữ cảnh truyện.\nĐảm bảo bản dịch là tiếng Việt hoàn chỉnh, không còn sót bất kỳ ký tự tiếng Trung nào.\nKhông thêm bất kỳ lời giải thích hay ghi chú nào ngoài nội dung dịch.\n\nVăn bản gốc:\n{text_chunk}",
+    "retry_prompt": "Bản dịch trước đó vẫn còn chứa ký tự tiếng Trung. Hãy dịch lại đoạn văn bản tiếng Trung sau sang tiếng Việt theo văn phong truyện Tiên hiệp/Huyền huyễn.\nƯu tiên dịch các thuật ngữ và tên riêng sang Hán Việt nếu có thể và hợp lý, giữ sự nhất quán.\nGiữ văn phong tự nhiên, trôi chảy, phù hợp với ngữ cảnh truyện.\nTUYỆT ĐỐI ĐẢM BẢO bản dịch là tiếng Việt hoàn chỉnh, không còn sót bất kỳ ký tự tiếng Trung nào.\nKhông thêm bất kỳ lời giải thích hay ghi chú nào ngoài nội dung dịch.\n\nVăn bản gốc:\n{text_chunk}",
+    "max_workers": 3,
+    "reader_font_family": "Segoe UI",
+    "reader_font_size": 12,
+    "allow_chinese_chars": 0,
+    "temperature": 0.3,
+    "max_folder_retries": 4,
+    "request_timeout": 240
+}
