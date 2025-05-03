@@ -93694,3 +93694,261 @@ Traceback (most recent call last):
 google.api_core.exceptions.DeadlineExceeded: 504 Deadline Exceeded
 
 --- Log Session Start: 2025-05-03 16:15:16 ---
+2025-05-03 16:15:36,083 - ERROR - [translation_handler:119] - API Err (Att 1): Permission Denied. 403 Permission denied: Consumer 'api_key:AIzaSyCGS95wEr-7XGDGfQz6-BKUQUPSlkHPDTk' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyCGS95wEr-7XGDGfQz6-BKUQUPSlkHPDTk"
+}
+metadata {
+  key: "consumer"
+  value: "projects/6564036199"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyCGS95wEr-7XGDGfQz6-BKUQUPSlkHPDTk\' has been suspended."
+]
+2025-05-03 16:15:36,083 - ERROR - [translation_handler:119] - API Err (Att 1): Permission Denied. 403 Permission denied: Consumer 'api_key:AIzaSyCGS95wEr-7XGDGfQz6-BKUQUPSlkHPDTk' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyCGS95wEr-7XGDGfQz6-BKUQUPSlkHPDTk"
+}
+metadata {
+  key: "consumer"
+  value: "projects/6564036199"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyCGS95wEr-7XGDGfQz6-BKUQUPSlkHPDTk\' has been suspended."
+]
+2025-05-03 16:15:36,429 - ERROR - [translation_handler:119] - API Err (Att 2): Permission Denied. 403 Permission denied: Consumer 'api_key:AIzaSyBwi3NQfD0iBauXSB47JakrNfwC-_tubwU' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyBwi3NQfD0iBauXSB47JakrNfwC-_tubwU"
+}
+metadata {
+  key: "consumer"
+  value: "projects/785390332264"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyBwi3NQfD0iBauXSB47JakrNfwC-_tubwU\' has been suspended."
+]
+2025-05-03 16:15:36,429 - ERROR - [translation_handler:160] - API Call failed permanently: Đã đạt số lần thử lại tối đa (2). Lỗi cuối: API Err (Att 2): Permission Denied. 403 Permission denied: Consumer 'api_key:AIzaSyBwi3NQfD0iBauXSB47JakrNfwC-_tubwU' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyBwi3NQfD0iBauXSB47JakrNfwC-_tubwU"
+}
+metadata {
+  key: "consumer"
+  value: "projects/785390332264"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyBwi3NQfD0iBauXSB47JakrNfwC-_tubwU\' has been suspended."
+] for chunk: '第4663章：这说得是人话吗？
+
+当初，叶无缺将归一传承融入了肉身，再加上圣心万熔丹结合之下，终于传...'
+2025-05-03 16:15:36,429 - ERROR - [translation_handler:366] - Err chunk 1/1 C004627_8147161.txt (Pri): Đã đạt số lần thử lại tối đa (2). Lỗi cuối: API Err (Att 2): Permission Denied. 403 Permission denied: Consumer 'api_key:AIzaSyBwi3NQfD0iBauXSB47JakrNfwC-_tubwU' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyBwi3NQfD0iBauXSB47JakrNfwC-_tubwU"
+}
+metadata {
+  key: "consumer"
+  value: "projects/785390332264"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyBwi3NQfD0iBauXSB47JakrNfwC-_tubwU\' has been suspended."
+]
+2025-05-03 16:15:36,429 - ERROR - [translation_handler:408] - Task C004627_8147161.txt fail API errors. Skip save.
+2025-05-03 16:15:36,429 - ERROR - [main_window:1070] - Task 'C004627_8147161.txt' (Lần thử 1/5) failed: Skipped: Translation Error
+2025-05-03 16:15:36,873 - ERROR - [translation_handler:119] - API Err (Att 1): Permission Denied. 403 Permission denied: Consumer 'api_key:AIzaSyCGS95wEr-7XGDGfQz6-BKUQUPSlkHPDTk' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyCGS95wEr-7XGDGfQz6-BKUQUPSlkHPDTk"
+}
+metadata {
+  key: "consumer"
+  value: "projects/6564036199"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyCGS95wEr-7XGDGfQz6-BKUQUPSlkHPDTk\' has been suspended."
+]
+2025-05-03 16:15:37,289 - ERROR - [translation_handler:119] - API Err (Att 2): Permission Denied. 403 Permission denied: Consumer 'api_key:AIzaSyC_yp-E_rG6t27LYRZf0NQiBA_I3zqtWl8' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyC_yp-E_rG6t27LYRZf0NQiBA_I3zqtWl8"
+}
+metadata {
+  key: "consumer"
+  value: "projects/264870794364"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyC_yp-E_rG6t27LYRZf0NQiBA_I3zqtWl8\' has been suspended."
+]
+2025-05-03 16:15:37,289 - ERROR - [translation_handler:160] - API Call failed permanently: Đã đạt số lần thử lại tối đa (2). Lỗi cuối: API Err (Att 2): Permission Denied. 403 Permission denied: Consumer 'api_key:AIzaSyC_yp-E_rG6t27LYRZf0NQiBA_I3zqtWl8' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyC_yp-E_rG6t27LYRZf0NQiBA_I3zqtWl8"
+}
+metadata {
+  key: "consumer"
+  value: "projects/264870794364"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyC_yp-E_rG6t27LYRZf0NQiBA_I3zqtWl8\' has been suspended."
+] for chunk: '第4367章：谁能纵横无敌？
+
+极境光辉瞬间炸裂，冲天而起！
+
+叶无缺身后慢慢出现了三大灿烂至极的漩...'
+2025-05-03 16:15:37,289 - ERROR - [translation_handler:366] - Err chunk 1/1 C004332_7793908.txt (Pri): Đã đạt số lần thử lại tối đa (2). Lỗi cuối: API Err (Att 2): Permission Denied. 403 Permission denied: Consumer 'api_key:AIzaSyC_yp-E_rG6t27LYRZf0NQiBA_I3zqtWl8' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyC_yp-E_rG6t27LYRZf0NQiBA_I3zqtWl8"
+}
+metadata {
+  key: "consumer"
+  value: "projects/264870794364"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyC_yp-E_rG6t27LYRZf0NQiBA_I3zqtWl8\' has been suspended."
+]
+2025-05-03 16:15:37,289 - ERROR - [translation_handler:408] - Task C004332_7793908.txt fail API errors. Skip save.
+2025-05-03 16:15:37,289 - ERROR - [main_window:1070] - Task 'C004332_7793908.txt' (Lần thử 1/5) failed: Skipped: Translation Error
+2025-05-03 16:20:49,172 - ERROR - [main_window:1070] - Task 'C004332_7793908.txt' (Lần thử 1/5) failed: Skipped: 6 CN Chars (>0)
+2025-05-03 16:23:10,907 - ERROR - [translation_handler:136] - API Err Chung (Att 1): 504 Deadline Exceeded
+Traceback (most recent call last):
+  File "D:\Ebooks\AI_Translator_Gemini_and_Grok\core\translation_handler.py", line 71, in call_gemini_api
+    response = model.generate_content(full_prompt, request_options={'timeout': request_timeout})
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python312\Lib\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python312\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "D:\Python312\Lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "D:\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python312\Lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "D:\Python312\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "D:\Python312\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python312\Lib\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.DeadlineExceeded: 504 Deadline Exceeded
+2025-05-03 16:23:57,537 - ERROR - [main_window:1070] - Task 'C006863_10427430.txt' (Lần thử 1/5) failed: Skipped: 2 CN Chars (>0)
+2025-05-03 16:26:44,837 - ERROR - [main_window:1070] - Task 'C007147_10495106.txt' (Lần thử 1/5) failed: Skipped: 5 CN Chars (>0)
+2025-05-03 16:37:09,536 - ERROR - [main_window:1070] - Task 'C008662_11512297.txt' (Lần thử 1/5) failed: Skipped: 4 CN Chars (>0)
+2025-05-03 16:44:42,184 - ERROR - [main_window:1070] - Task 'C007147_10495106.txt' (Lần thử 2/5) failed: Skipped: 1 CN Chars (>0)
+2025-05-03 16:45:21,244 - ERROR - [main_window:1070] - Task 'C004332_7793908.txt' (Lần thử 2/5) failed: Skipped: 1 CN Chars (>0)
+2025-05-03 16:45:29,041 - ERROR - [main_window:1070] - Task 'C008662_11512297.txt' (Lần thử 2/5) failed: Skipped: 3 CN Chars (>0)
+2025-05-03 16:48:28,907 - ERROR - [main_window:1070] - Task 'C004332_7793908.txt' (Lần thử 3/5) failed: Skipped: 4 CN Chars (>0)
+2025-05-03 16:51:46,824 - ERROR - [main_window:1070] - Task 'C004332_7793908.txt' (Lần thử 4/5) failed: Skipped: 1 CN Chars (>0)
+2025-05-03 16:54:50,242 - ERROR - [main_window:1070] - Task 'C004332_7793908.txt' (Lần thử 5/5) failed: Skipped: 7 CN Chars (>0)
+2025-05-03 17:04:50,926 - ERROR - [translation_handler:160] - API Call failed permanently: Đã đạt số lần thử lại tối đa (2). Lỗi cuối: API Err (Att 2): Quota/Rate limit. 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-pro-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 25
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 10
+}
+] for chunk: '第80章 逆转，惊天反杀！
+
+突如其来的一掌，将林轩的退路全部封死。
+
+
+
+火红掌印，如同一轮鲜红的...'
+2025-05-03 17:04:50,926 - ERROR - [translation_handler:385] - Err retry chunk 1 C000080_5863851.txt (Sec): Đã đạt số lần thử lại tối đa (2). Lỗi cuối: API Err (Att 2): Quota/Rate limit. 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-pro-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 25
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 10
+}
+]
+2025-05-03 17:04:50,926 - ERROR - [translation_handler:408] - Task C000080_5863851.txt fail API errors. Skip save.
+2025-05-03 17:04:50,934 - ERROR - [main_window:1070] - Task 'C000080_5863851.txt' (Lần thử 1/5) failed: Skipped: Translation Error
+2025-05-03 17:10:59,045 - ERROR - [main_window:1070] - Task 'C000117_5863888.txt' (Lần thử 1/5) failed: Skipped: 1 CN Chars (>0)
+2025-05-03 17:58:31,927 - ERROR - [main_window:1070] - Task 'C000402_5864173.txt' (Lần thử 1/5) failed: Skipped: 1 CN Chars (>0)
+2025-05-03 18:09:44,395 - ERROR - [main_window:1070] - Task 'C000495_5864266.txt' (Lần thử 1/5) failed: Skipped: 2 CN Chars (>0)
+2025-05-03 18:09:48,428 - ERROR - [main_window:1070] - Task 'C000497_5864268.txt' (Lần thử 1/5) failed: Skipped: 2 CN Chars (>0)
